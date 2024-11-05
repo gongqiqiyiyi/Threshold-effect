@@ -1,0 +1,13 @@
+Supplementary Dataset 1
+Description: Nitrogen application and plant biomass data from 173 experimental sites, including 940 data points. After data cleaning, 758 data points were obtained for data integration analysis. In addition, special cases (greenhouse experiments, partial meadow grasslands, and extremely degraded grasslands) are included as a separate sheet.
+
+Supplementary Dataset 2
+Description: Two data sets for meta-analysis. The dataset 437 consists of all studies that provide a case standard deviation (113 study points), and the dataset 598 complements the dataset 437 with 44 estimates that do not provide a case standard deviation.
+
+Supplementary Dataset 3
+Description: The results of the geographically weighted regression model include the regression model of each test site, the dependent variable is the nitrogen application threshold of each test site, and the independent variable includes MAT, MAP and altitude.
+
+Supplementary Dataset 4
+Description: The literature search included 136 papers, including 173 experimental sites. The required information from each study, including location, climate, and trial details were gathered.
+
+
