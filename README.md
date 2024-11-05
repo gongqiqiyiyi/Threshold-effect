@@ -1,5 +1,5 @@
 # Threshold-effect
-Low nitrogen-driven restoration thresholds in global grassland ecosystems
+Exploring the optimal nitrogen threshold for global grassland restoration
 
 The analyses were conducted using the R programming environment (v4.3.2). 
 Platform: Rstudio, vision: x86_64-w64-mingw32/x64 (64-bit).
